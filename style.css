@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  overflow: hidden;
+  background: rgb(107, 22, 235);
+  background-image: radial-gradient(top, circle cover, rgb(43, 60, 74) 20%, rgb(252, 247, 247) 80%);
+  cursor: move;
+}
+
+body {
+  width: 100%;
+  margin: 0;
+}
